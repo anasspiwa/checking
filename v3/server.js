@@ -22,7 +22,7 @@ client.on('ready', () => {
 
 // Function to send a WhatsApp notification with the keyword
 function sendWhatsAppNotification(keyword) {
-    const chatId = '212618823624@c.us';  // Replace with the correct phone number in the proper format
+    const chatId = '212...@c.us';  // Replace with the correct phone number in the proper format
     client.sendMessage(chatId, `📢 The keyword was found: ${keyword}`);
 }
 
