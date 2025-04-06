@@ -37,7 +37,7 @@ function searchCheckIn() {
     "free", "gratuit",
     "year", "année",
     "actions", "actions",
-    "2025", "2025",
+    "2025",
     "accompaniment", "accompagnement"
 ];
 
