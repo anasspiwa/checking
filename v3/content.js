@@ -24,20 +24,18 @@ function searchInElement(element, keywords) {
 // البحث في الصفحة الرئيسية والإطارات (iframes)
 function searchCheckIn() {
   const keywords = [
-    "date", "jour",
-    "day", "jour",
+   
+   
     "casablanca", "Casablanca",
     "number", "numéro",
     "spaces", "espaces",
     "register", "s'inscrire",
-    "online", "en ligne",
     "april", "avril",
     "adress", "adresse",
     "seats", "sièges",
     "free", "gratuit",
     "year", "année",
     "actions", "actions",
-    
     "accompaniment", "accompagnement"
 ];
 
